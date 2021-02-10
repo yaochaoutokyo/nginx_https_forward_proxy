@@ -78,6 +78,6 @@ make install
 
 Reference
 
-1. How to Use NGINX as an HTTPS Forward Proxy Server
+1. [How to Use NGINX as an HTTPS Forward Proxy Server](https://www.alibabacloud.com/blog/how-to-use-nginx-as-an-https-forward-proxy-server_595799)
 
-2. Adding entries to Pod /etc/hosts with HostAliases# nginx_https_forward_proxy
+2. [Adding entries to Pod /etc/hosts with HostAliases](https://kubernetes.io/docs/concepts/services-networking/add-entries-to-pod-etc-hosts-with-host-aliases/)
